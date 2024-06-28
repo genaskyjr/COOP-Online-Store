@@ -1,0 +1,53 @@
+.main-container{
+    margin: 10px;
+    
+    height: 300px;
+}
+
+.search-bar{
+    
+    display: flex;
+}
+
+.input{
+    height: 27px;
+    width: 100%;
+    
+    padding: 10px;
+    
+}
+
+.searchbtn{
+    width: 10%;
+    background-color: #E2F0D9;
+}
+
+
+.box{
+    border: solid red 1px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.box-content{
+    border: outset 1px;
+    flex-basis: 620px;
+    margin-top: 10px;
+    display: flex;
+   
+}
+
+.img-catname > img{
+    width: 50px;
+}
+
+.img-catname{
+    display: flex;
+}
+
+
+.action{
+    border: solid 1px red;
+}
+
